@@ -1,0 +1,22 @@
+Package: dockconsensusR
+Title: Summarise Consensus Across Precomputed Docking Prioritizations
+Version: 0.0.1
+Authors@R: c(
+    person(given = "Andrés", family = "Monreal Hernández",
+           role = c("aut", "cre"), email = "andres.monreal@ues.mx",
+           comment = c(ORCID = "0009-0009-1207-8597")),
+    person(given = "Sara Lizbeth", family = "Franco Amaya", role = "aut",
+           comment = c(ORCID = "0009-0005-0272-0241")),
+    person(given = "Carlos Ivanhoe", family = "Martínez Osorio", role = "aut",
+           comment = c(ORCID = "0009-0003-7872-4965")))
+Description: Summarises consensus and agreement across precomputed molecular
+    docking prioritizations. It calculates within-method ranks, rank coverage,
+    mean ranks, Borda scores, and pairwise rank agreement without combining
+    raw score scales. It does not run docking engines or infer molecular
+    binding, biological activity, efficacy, or safety.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.0
