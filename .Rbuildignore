@@ -4,3 +4,6 @@
 ^PILOT-RESULTS\.md$
 ^tools$
 ^results$
+^CITATION\.cff$
+^NEWS\.md$
+^ARCHIVE-POLICY\.md$

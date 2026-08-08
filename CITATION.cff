@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "dockconsensusR: consensus across precomputed docking prioritizations"
+version: 0.1.0
+date-released: 2026-08-08
+repository-code: "https://github.com/sircalch/dockconsensusR"
+license: MIT
+authors:
+  - family-names: "Monreal Hernández"
+    given-names: "Andrés"
+    orcid: "https://orcid.org/0009-0009-1207-8597"
+  - family-names: "Franco Amaya"
+    given-names: "Sara Lizbeth"
+    orcid: "https://orcid.org/0009-0005-0272-0241"
+  - family-names: "Martínez Osorio"
+    given-names: "Carlos Ivanhoe"
+    orcid: "https://orcid.org/0009-0003-7872-4965"

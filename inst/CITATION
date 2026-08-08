@@ -1,0 +1,2 @@
+citHeader("To cite dockconsensusR in publications use:")
+citEntry(entry = "Manual", title = "dockconsensusR: Consensus Across Precomputed Docking Prioritizations", author = personList(person("Andrés", "Monreal Hernández"), person("Sara Lizbeth", "Franco Amaya"), person("Carlos Ivanhoe", "Martínez Osorio")), year = "2026", note = "R package version 0.1.0", url = "https://github.com/sircalch/dockconsensusR")

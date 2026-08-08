@@ -1,6 +1,6 @@
 Package: dockconsensusR
 Title: Summarise Consensus Across Precomputed Docking Prioritizations
-Version: 0.0.1
+Version: 0.1.0
 Authors@R: c(
     person(given = "Andrés", family = "Monreal Hernández",
            role = c("aut", "cre"), email = "andres.monreal@ues.mx",
